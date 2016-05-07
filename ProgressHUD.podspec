@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'ProgressHUD'
+  s.name         = 'SFProgressHUD'
   s.version      = '0.2.0'
   s.summary      = "Progress, simelpe MBProgress by swift 2.2"
   s.homepage     = 'https://github.com/looseyi/SFProgressHUD.git'
